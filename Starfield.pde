@@ -1,5 +1,4 @@
 Particle[] parts = new Particle[1000];
-//boolean start=false;
 void setup(){
   //your code here
   noStroke();
